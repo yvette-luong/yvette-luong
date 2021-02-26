@@ -1,6 +1,6 @@
 ### Hi there, I'm Yvette 👋 
 
-#### 🖋✒️***About Me***
+#### ✒️***About Me***
 
 --------
 
