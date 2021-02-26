@@ -4,9 +4,9 @@
 
 --------
 
-   ➤ Solution-driven professional with 5 years of business hospitality andcommunications.
+   ➤ *Solution-driven professional with 5 years of business hospitality andcommunications.*
 
-   ➤ Excelling in highly collaborative work environments, with experience building entrepreneurial connections globally, meeting high standards for consumer satisfaction, retention, and experience.
+   ➤ *Excelling in highly collaborative work environments, with experience building entrepreneurial connections globally, meeting high standards for consumer satisfaction, retention, and experience.*
 
 --------
 - 💻 I’m currently working on  Labds to launch Lambda Alumni Network app with my awesome team 
