@@ -14,5 +14,6 @@
 - 📌 I’m looking to collaborate on cool projects 
 - 🔍 I’m looking for help with problem-solving and learning new things not only in Tech but also about the whole world. 
 - 📫 How to reach me: 
- <img src="https://img.icons8.com/windows/32/000000/linkedin.png"/> https://www.linkedin.com/in/yvetteluong22/
+      **E-mail:**__ luongthuhang2207@gmail.com
+      **LinkIn**__ - https://www.linkedin.com/in/yvetteluong22/
 
