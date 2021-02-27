@@ -3,7 +3,7 @@
 <!-- <img src="https://media.giphy.com/media/4N3lQozOH2STZdDsOe/giphy.gif"> -->
 <img src='https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif'>
 
-### 💻 **_A b o u t M e_**
+### 💻 **_About Me_**
 
 - _Solution-driven professional with 5 years of business hospitality andcommunications._
 
