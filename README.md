@@ -9,6 +9,7 @@
 
 - _Excelling in highly collaborative work environments, with experience building entrepreneurial connections globally, meeting high standards for consumer satisfaction, retention, and experience._
 
+
 ---
 
 ### _*What I'm currently up to now . . .*_
