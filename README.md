@@ -1,6 +1,7 @@
-## Hi there, I'm Yvette
+## *Hi there, I'm Yvette*
 
-<iframe width="35%" align="right" src="https://giphy.com/embed/4N3lQozOH2STZdDsOe" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animatr-anime-gif-aesthetic-study-4N3lQozOH2STZdDsOe">via GIPHY</a></p>
+<!-- <img src="https://media.giphy.com/media/4N3lQozOH2STZdDsOe/giphy.gif"> -->
+<img src='https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif'>
 
 ### 💻 **_A b o u t M e_**
 
